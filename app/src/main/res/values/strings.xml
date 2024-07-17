@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">FridgeHelper</string>
+    <string name="products">Products</string>
+    <string name="name">Name</string>
+    <string name="add_product">Add product</string>
+    <string name="product_name">Product name</string>
+    <string name="quantity">Quantity</string>
+    <string name="fresh_till">Fresh till:</string>
+    <string name="delete">Delete</string>
+    <string name="recipes">Recipes</string>
+    <string name="list">List</string>
+    <string name="add_recipe">Add recipe</string>
+    <string name="clear">Clear</string>
+    <string name="add">Add</string>
+    <string name="recipe_name">Recipe name</string>
+    <string name="guide">Guide</string>
+    <string name="delete_product_question">Are you sure you want to delete this product?</string>
+    <string name="UnlimitedDate">Unlimited Date</string>
+    <string name="addition">Примечание</string>
+    <string name="product_already_created">Product with this name has already been created</string>
+    <string name="no_unit_type_product">You has not selected unit type for this product</string>
+    <string name="no_name_product">You have not entered a name for this product</string>
+    <string name="recipe_already_created">Recipe with this name has already been created</string>
+    <string name="no_product_name">You did not write a name for this product</string>
+    <string name="no_quantity_product">You has not wrote quantity for this product</string>
+    <array name="sorting_types">
+        <item>Sort by name</item>
+        <item>Sort by date</item>
+    </array>
+    <array name="units">
+        <item>Chose unit type...</item>
+        <item>l</item>
+        <item>g</item>
+        <item>pc</item>
+    </array>
+    <array name="sorting_types_recipes">
+        <item>Sort by name</item>
+        <item>Sort by date</item>
+        <item>Sort by products</item>
+    </array>
+</resources>

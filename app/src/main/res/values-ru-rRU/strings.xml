@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="products">Продукты</string>
+    <string name="name">Название</string>
+    <string name="add_product">Добавить продукт</string>
+    <array name="sorting_types">
+        <item>Сортировка по имени</item>
+        <item>Сортировка по сроку годности</item>
+    </array>
+    <array name="units">
+        <item>Выберите единицу измерения...</item>
+        <item>л</item>
+        <item>г</item>
+        <item>шт</item>
+    </array>
+    <array name="sorting_types_recipes">
+        <item>Сортировка по имени</item>
+        <item>Сортировка по сроку годности</item>
+        <item>Сортировка по продуктам</item>
+    </array>
+    <string name="product_name">Название продукта</string>
+    <string name="quantity">Количество</string>
+    <string name="fresh_till">Годен до:</string>
+    <string name="delete">Удалить</string>
+    <string name="recipes">Рецепты</string>
+    <string name="list">Список покупок</string>
+    <string name="add_recipe">Добавить рецепт</string>
+    <string name="clear">Очистить</string>
+    <string name="add">Добавить</string>
+    <string name="recipe_name">Название рецепта</string>
+    <string name="guide">Рецепт</string>
+</resources>
